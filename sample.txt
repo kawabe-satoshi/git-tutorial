@@ -1,1 +1,2 @@
 Hello, world!
+.. and new line in sample File
