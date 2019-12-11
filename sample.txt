@@ -1,3 +1,4 @@
 Hello, world!
 .. and new line in sample File
 git-tutorialのsample.txtに行を追加しました。
+clone内での追加をしました。
